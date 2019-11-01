@@ -28,6 +28,7 @@ Git
 
 ===========
 這邊要有圖片！
+網址：https://miro.medium.com/max/380/1*OvMsmQs0Rzs_ScuiTsuWjw.png
 ===========
 
 Home Page
@@ -52,6 +53,7 @@ GitHub
 
 ===========
 這邊要有圖片！
+網址：https://i.pinimg.com/originals/2c/b6/70/2cb670b6ddd8922a1c1b2fee4f6f758c.jpg
 ===========
 
 Home Page
@@ -62,6 +64,7 @@ Markdown
 
 ===========
 這邊要有圖片！
+網址：https://cdn.guidingtech.com/media/assets/WordPress-Import/2014/01/markdown-logo2-300x201.png
 ===========
 
 Home Page
