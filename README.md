@@ -1,6 +1,12 @@
 # 11/01 技術部部聚
 
-今天教的內容有
+先把教材放上來
+
+* [投影片](https://docs.google.com/presentation/d/1YlehUyertsoipIf7xcM4AnQWa1-AVB-vFcNSBDI4cVM/edit?usp=sharing)
+
+* [完成的 GitHub Repository](https://github.com/jerry871002/1101-ece-course)
+
+今天教的內容有下面四個
 
 ## 終端機
 
