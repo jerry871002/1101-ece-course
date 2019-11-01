@@ -1,3 +1,4 @@
+// declare the pin we need
 int ledPin = 3;
 int potPin = A0;
 
